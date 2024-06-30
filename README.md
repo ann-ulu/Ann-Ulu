@@ -26,11 +26,12 @@ I enjoy writing about my learning, discoveries and insights around data. Check t
 <h2 align="center">📫 Let's Connect! </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/annulu/">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="filter: invert(1);" />
   </a>
   <a href="mailto:your-uluoluchi@gmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="30" />
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="30" style="filter: invert(1);" />
   </a>
 </p>
+
 
 
