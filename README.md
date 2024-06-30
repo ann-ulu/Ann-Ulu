@@ -14,8 +14,23 @@ I enjoy writing about my learning, discoveries and insights around data. Check t
   <li><a href="https://medium.com/@annulu/understanding-sql-window-functions-83e58cb51577">Understanding SQL Window Functions</a></li>
 </ul>
 <hr>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ann-ulu&layout=compact)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ann-ulu&hide_progress=true" /></p>
+ <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ann-ulu"/></a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ann-ulu&color=ff69b4"/>
+</p>
+<hr>
+<h2 align="center">📫 Let's Connect! </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/annulu/">
+    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:your-uluoluchi@gmail.com">
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30" width="30" />
+  </a>
+</p>
 
 
