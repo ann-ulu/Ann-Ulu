@@ -13,9 +13,9 @@ I enjoy writing about my learning, discoveries and insights around data. Check t
   <li><a href="https://medium.com/@annulu/enhancing-query-performance-with-indexing-in-sql-2810caeefd83">Enhancing Query Performance with Indexing in SQL</a></li>
   <li><a href="https://medium.com/@annulu/understanding-sql-window-functions-83e58cb51577">Understanding SQL Window Functions</a></li>
 </ul>
-<hr><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ann-ulu&langs_count=8)
+
 
 
 
