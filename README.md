@@ -14,7 +14,7 @@ I enjoy writing about my learning, discoveries and insights around data. Check t
   <li><a href="https://medium.com/@annulu/understanding-sql-window-functions-83e58cb51577">Understanding SQL Window Functions</a></li>
 </ul>
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
