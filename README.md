@@ -7,4 +7,9 @@
 
 ### Some Articles I Wrote
 I enjoy writing about my learning, discoveries and insights around data. Check them out on [medium](https://medium.com/@annulu)!<br>
-[Data Storytelling: Transforming Numbers into Narratives](https://medium.com/@annulu/data-storytelling-transforming-numbers-into-narratives-557ee150cb2d)
+<ul>
+ <li>[Data Storytelling: Transforming Numbers into Narratives](https://medium.com/@annulu/data-storytelling-transforming-numbers-into-narratives-557ee150cb2d)</li>
+</ul>
+
+
+
