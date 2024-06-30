@@ -6,7 +6,7 @@
 💬 Ask me about Data Analysis, Data Science, Machine Learning, Web Development
 <hr>
 
-### Some Articles I Wrote;
+### 📚 Some Articles I Wrote;
 I enjoy writing about my learning, discoveries and insights around data. Check them out on [medium](https://medium.com/@annulu)!<br>
 <ul>
  <li><a href="https://medium.com/@annulu/data-storytelling-transforming-numbers-into-narratives-557ee150cb2d">Data Storytelling: Transforming Numbers into Narratives </a></li>
