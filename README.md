@@ -3,7 +3,7 @@
 <p align="center"> I am a data analyst that leverage the power of data to drive innovation and solve real-world problems. I'm also passionate about machine learning and its potential to transform the way we utilize information. <br>When I'm not building predictive models/dashboards, writing scripts or crafting web experiences, you'll find me on <a href="https://medium.com/@annulu">Medium</a>, where I share insights and knowledge about data and technology.
  </p>
 <hr>
-💬 Ask me about Data Analysis, Data Science, Machine Learning, Web Development
+💬 Ask me about Data Analysis, Data Science, Machine Learning and Data Governance
 <hr>
 
 ### 📚 Some Articles I Wrote;
