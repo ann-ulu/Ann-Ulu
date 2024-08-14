@@ -9,6 +9,7 @@
 ### 📚 Some Articles I Wrote;
 I enjoy writing about my learning, discoveries and insights around data. Check them out on [medium](https://medium.com/@annulu)!<br>
 <ul>
+  <li><a href="https://medium.com/@annulu/a-breakdown-of-overfitting-in-machine-learning-models-46bd6b470650">A breakdown of Overfitting in Machine Learning </a></li>
  <li><a href="https://medium.com/@annulu/data-storytelling-transforming-numbers-into-narratives-557ee150cb2d">Data Storytelling: Transforming Numbers into Narratives </a></li>
   <li><a href="https://medium.com/@annulu/enhancing-query-performance-with-indexing-in-sql-2810caeefd83">Enhancing Query Performance with Indexing in SQL</a></li>
   <li><a href="https://medium.com/@annulu/understanding-sql-window-functions-83e58cb51577">Understanding SQL Window Functions</a></li>
