@@ -19,6 +19,7 @@ I enjoy writing about my learning, discoveries and insights around data. Check t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ann-ulu&hide_progress=true" /></p>
  <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ann-ulu"/></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ann-ulu)](https://git.io/streak-stats)
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ann-ulu&color=ff69b4"/>
